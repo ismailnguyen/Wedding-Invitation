@@ -8,10 +8,10 @@ Static web site for wedding invitation :
 - history timeline in About page
 
 ## Home page
-![Home page screenshot](https://raw.githubusercontent.com/ismailnguyen/Wedding-Invitation/master/screen1.png)
+![Home page screenshot](https://raw.githubusercontent.com/ismailnguyen/Wedding-Invitation/master/screenshots/screen1.png)
 
 ## Ceremony page
-![Ceremony page screenshot](https://raw.githubusercontent.com/ismailnguyen/Wedding-Invitation/master/screen2.png)
+![Ceremony page screenshot](https://raw.githubusercontent.com/ismailnguyen/Wedding-Invitation/master/screenshots/screen2.png)
 
 ## About page
-![About page screenshot](https://raw.githubusercontent.com/ismailnguyen/Wedding-Invitation/master/screen3.png)
+![About page screenshot](https://raw.githubusercontent.com/ismailnguyen/Wedding-Invitation/master/screenshots/screen3.png)
